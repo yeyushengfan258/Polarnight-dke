@@ -1,6 +1,6 @@
-## Twilight KDE Theme
+## Polarnight KDE Theme
 
-Twilight kde is a light clean theme for KDE Plasma desktop.
+Polarnight kde is a light clean theme for KDE Plasma desktop.
 
 In this repository you'll find:
 
